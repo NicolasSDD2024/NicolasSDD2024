@@ -25,25 +25,25 @@ Currently, I’m looking for an exciting opportunity starting in **March 2025**,
 
 ## 🚀 Featured Projects
 Here are a few projects that showcase my work:  
-- [**Statistical Foundations of Machine Learning: Regression and Hypothesis Testing on Sensor and Efficiency Data**](https://github.com/NicolasSDD2024/NicolasSDD2024/projects/project1)
+- [**Statistical Foundations of Machine Learning: Regression and Hypothesis Testing on Sensor and Efficiency Data**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project1)
 
   [Date] 
 
   Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
 
-- [**Real-Time City Bike Availability Prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/projects/project2)
+- [**Real-Time City Bike Availability Prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project2)
 
   [Date] 
 
   Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
   
-- [**Heart attack's prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/projects/project3)
+- [**Heart attack's prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project3)
 
   [Date] 
 
   Developed a predictive model to optimize energy consumption in smart buildings, reducing energy usage by 15%.  
 
-- [**Anomaly Detection for Flight Sensor Data**](https://github.com/NicolasSDD2024/NicolasSDD2024/projects/project4)
+- [**Anomaly Detection for Flight Sensor Data**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project4)
 
   [Date] 
 
