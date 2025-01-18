@@ -49,7 +49,7 @@ Here are a few projects that showcase my work:
 
   Description
 
-  - [**Understanding Dropouts**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project5)
+- [**Understanding Dropouts**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project5)
 
   [Date] 
 
