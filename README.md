@@ -29,25 +29,31 @@ Here are a few projects that showcase my work:
 
   [Date] 
 
-  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
+  Description
 
 - [**Real-Time City Bike Availability Prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project2)
 
   [Date] 
 
-  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
+  Description
   
 - [**Heart attack's prediction**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project3)
 
   [Date] 
 
-  Developed a predictive model to optimize energy consumption in smart buildings, reducing energy usage by 15%.  
+  Description
 
 - [**Anomaly Detection for Flight Sensor Data**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project4)
 
   [Date] 
 
-  Analyzed and visualized satellite trajectories to identify optimal launch windows for space missions.  
+  Description
+
+  - [**Understanding Dropouts**](https://github.com/NicolasSDD2024/NicolasSDD2024/tree/main/projects/project5)
+
+  [Date] 
+
+  Description
 
 ---
 
