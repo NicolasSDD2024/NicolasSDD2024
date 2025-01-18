@@ -25,29 +25,29 @@ Currently, I’m looking for an exciting opportunity starting in **March 2025**,
 
 ## 🚀 Featured Projects
 Here are a few projects that showcase my work:  
-- [**Heart attack's prediction**](https://github.com/your-username/sports-analytics)
+- [**Statistical Foundations of Machine Learning: Regression and Hypothesis Testing on Sensor and Efficiency Data**](https://github.com/NicolasSDD2024/projects/project1)
+
+  [Date] 
+
+  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
+
+- [**Real-Time City Bike Availability Prediction**](https://github.com/NicolasSDD2024/projects/project2)
+
+  [Date] 
+
+  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
+  
+- [**Heart attack's prediction**](https://github.com/NicolasSDD2024/projects/project3)
 
   [Date] 
 
   Developed a predictive model to optimize energy consumption in smart buildings, reducing energy usage by 15%.  
 
-- [**Anomaly Detection for Flight Sensor Data**](https://github.com/your-username/sports-analytics)
+- [**Anomaly Detection for Flight Sensor Data**](https://github.com/NicolasSDD2024/projects/project4)
 
   [Date] 
 
   Analyzed and visualized satellite trajectories to identify optimal launch windows for space missions.  
-
-- [**Real-Time City Bike Availability Prediction**](https://github.com/your-username/sports-analytics)
-
-  [Date] 
-
-  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
-
-- [**Statistical Foundations of Machine Learning: Regression and Hypothesis Testing on Sensor and Efficiency Data**](https://github.com/your-username/sports-analytics)
-
-  [Date] 
-
-  Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
 
 ---
 
