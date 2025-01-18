@@ -2,13 +2,6 @@
 
 [**Hints and starting points**](http://jmlr.org/papers/v15/srivastava14a.html)
 
-
-
-# Bonsoir à tous,  
-
-Comme vous l'avez vu, j'ai été absent depuis début novembre. Une des conséquences est que vous n'avez pas reçu les consignes pour la fameuse évaluation du cours de **Deep Learning**.  
-Pour corriger cela, voici les consignes et l'explication de l'exercice, ainsi que l'ajustement du calendrier (suivis très rapidement par un fichier d'affectation étudiant-sujet).
-
 ---
 
 ## 🎯 Principe et objectif pédagogique  
