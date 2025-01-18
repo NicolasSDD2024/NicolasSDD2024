@@ -26,19 +26,27 @@ Currently, I’m looking for an exciting opportunity starting in **March 2025**,
 ## 🚀 Featured Projects
 Here are a few projects that showcase my work:  
 - [**Heart attack's prediction**]
+
   [Date] (https://github.com/your-username/sports-analytics)
+
   Developed a predictive model to optimize energy consumption in smart buildings, reducing energy usage by 15%.  
 
 - [**Anomaly Detection for Flight Sensor Data**]
+
   [Date] (https://github.com/your-username/sports-analytics)
+
   Analyzed and visualized satellite trajectories to identify optimal launch windows for space missions.  
 
 - [**Real-Time City Bike Availability Prediction**]
+
   [Date] (https://github.com/your-username/sports-analytics)
+
   Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
 
 - [**Statistical Foundations of Machine Learning: Regression and Hypothesis Testing on Sensor and Efficiency Data**]
+
   [Date] (https://github.com/your-username/sports-analytics)
+
   Built an interactive dashboard using Python and Dash to track player performance and game strategies in real time.
 
 ---
@@ -51,7 +59,7 @@ Here are a few projects that showcase my work:
 
 ## 📫 How to Reach Me
 - **Email:** [nicolas.revelli.mc@gmail.com](mailto:nicolas.revelli.mc@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/nicolas-revelli-b0565b23b/)
+- **LinkedIn:** [linkedin.com/in/nicolas-revelli](https://www.linkedin.com/in/nicolas-revelli-b0565b23b/)
 - **GitHub:** [github.com/NicolasSDD2024](https://github.com/NicolasSDD2024)
 
 ---
