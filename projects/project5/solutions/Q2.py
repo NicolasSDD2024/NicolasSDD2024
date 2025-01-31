@@ -1,0 +1,17 @@
+class RandomDropoutModel(nn.Module):
+    def __init__(self):
+        super(RandomDropoutModel, self).__init__()
+        self.fc1 = nn.Linear(784, 120)
+        self.dropout1 = nn.Dropout(p=0.3)  # Dropout avec une probabilité de 30%
+        self.fc2 = nn.Linear(120, 60)
+        self.dropout2 = nn.Dropout(p=0.5)  # Dropout avec une probabilité de 50%
+        self.fc3 = nn.Linear(60, 10)
+
+    def forward(self, x):
+        x = x.view(-1, 784)
+        x = F.relu(self.fc1(x))
+        x = self.dropout1(x)  # Appliquer le premier dropout
+        x = F.relu(self.fc2(x))
+        x = self.dropout2(x)  # Appliquer le deuxième dropout
+        x = self.fc3(x)
+        return x

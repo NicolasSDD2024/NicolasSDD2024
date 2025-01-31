@@ -1,22 +1,13 @@
-class DropoutNet(nn.Module):
-    
+class ModelWithDropout(nn.Module):
     def __init__(self):
-        super(DropoutNet, self).__init__()
-        self.fc1 = nn.Linear(784,600)
-        self.drop = nn.Dropout(0.25)
-        self.fc2 = nn.Linear(600, 120)
-        self.fc3 = nn.Linear(120, 10)
-        
+        super(ModelWithDropout, self).__init__()
+        self.fc1 = nn.Linear(784, 120)
+        self.dropout = nn.Dropout(p=0.5)  # La couche de dropout avec p=0.5
+        self.fc2 = nn.Linear(120, 10)
+
     def forward(self, x):
-        x = x.view(-1,784)
-        x = self.fc1(x)
-        x = self.drop(x)
+        x = x.view(-1, 784)
+        x = F.relu(self.fc1(x))
+        x = self.dropout(x)  # Appliquer le dropout après la première couche
         x = self.fc2(x)
-        x = self.drop(x)
-        x = self.fc3(x)
         return x
-
-
-net = DropoutNet()
-train_history, valid_history = train(net, earlystopping=False)
-plot_train_val(train_history, valid_history)
