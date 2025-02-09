@@ -1,4 +1,4 @@
-# Définition du modèle avec Dropout
+# Définition de la classe du modèle avec Dropout
 class RandomDropoutModel(nn.Module):
     def __init__(self):
         super(RandomDropoutModel, self).__init__()
